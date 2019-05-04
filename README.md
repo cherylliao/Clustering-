@@ -1,2 +1,2 @@
 # Clustering-
-Clustering of dataset in Scala
+An example of K_means clustering in Scala Apache Spark
